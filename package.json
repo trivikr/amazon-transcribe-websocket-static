@@ -25,9 +25,9 @@
     ]
   },
   "dependencies": {
-    "@aws-sdk/client-transcribe-streaming": "1.0.0-rc.2",
+    "@aws-sdk/client-transcribe-streaming": "3.4.1",
     "local-web-server": "^3.0.7",
-    "microphone-stream": "^5.0.1",
+    "microphone-stream": "^5.1.0",
     "query-string": "^6.12.1"
   },
   "devDependencies": {
